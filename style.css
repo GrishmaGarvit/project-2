@@ -25,3 +25,7 @@ body {
     max-width: 100%;
     width: 350px;
 }
+
+.circle {
+    background-color: red;
+}
